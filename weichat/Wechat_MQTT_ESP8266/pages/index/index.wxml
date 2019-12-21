@@ -1,0 +1,4 @@
+<view class="container">
+  <input class="bode" bindinput="talks" placeholder="时间 格式：XX：XX" />
+  <button class="butt" bindtap="LedControl">确认</button>
+</view>

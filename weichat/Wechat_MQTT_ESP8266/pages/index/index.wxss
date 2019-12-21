@@ -1,0 +1,15 @@
+/**index.wxss**/
+
+.container{
+    position: relative;
+}
+.bode{
+  border: 1px solid black;
+  border-radius:10px; 
+}
+.butt{
+  margin-top: 30px;
+  height: 75rpx;
+  width: 200rpx;
+  line-height: 75rpx;
+}
